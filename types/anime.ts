@@ -20,5 +20,6 @@ export interface Anime {
   episodes: number;
   season: number;
   audioType: string;
+  logoAnime: string;
   thumbnailImage: string;
 }
