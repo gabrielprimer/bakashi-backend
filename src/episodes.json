@@ -1,6 +1,60 @@
 {
   "episodes": [
-    {
+      {
+        "id": "G9DUEMW42",  
+        "animeId": "GDKHZEJ0K",  
+        "season": 1,
+        "title": "Episódio 1", 
+        "slug": "episodio-1", 
+        "duration": "23m",
+        "synopsis": "About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)",
+        "image": "https://placewaifu.com/image/1200/364",
+        "videoUrl": "https://rogeriobetin.com/aventura/blog/ffgay/?id=b-16/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-81036262/subtitled/25/218f5d18-367f-46fd-be94-92297ac02127/stream.mp4&amp;img=https://image.tmdb.org/t/p/w1280/uZ6IUfFIROm0GjpX0TPGsKrIjHS.jpg",
+        "releaseDate": "2024-01-01",
+        "isLancamento": true
+      },
+      {
+        "id": "G9DUEMW43",
+        "animeId": "GDKHZEJ0K",
+        "season": 1,
+        "title": "Episódio 2",
+        "slug": "episodio-2",
+        "duration": "23m",
+        "synopsis": "About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)",
+        "image": "https://placewaifu.com/image/1200/364",
+        "videoUrl": "https://www.blogger.com/video.g?token=AD6v5dyaeW6f89VMB_899m2oaFmSRcwE2hUkkLV8QzAKJK3vbtdxQhcTsQw0-Th0ep30DnrXX1x7XwgHtZY7ib_vkphRxbo-pAgPnfwS1tFrwGZf4AlT5GCiAFYkhmtA7lDfJwaiYDU",
+        "releaseDate": "2024-01-08",
+        "isLancamento": true
+      },
+      {
+        "id": "G9DUEMW44",
+        "animeId": "GDKHZEJ0K",
+        "season": 2,
+        "title": "Episódio 1",
+        "slug": "episodio-1",
+        "duration": "23m",
+        "synopsis": "About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)",
+        "image": "https://placewaifu.com/image/1200/364",
+        "videoUrl": "https://www.blogger.com/video.g?token=AD6v5dxGwB3w5hDxSgQ5w-VrUak54H9j1p0g8BSq--qO2los45FpvAx7nvxvGSpQjRtkrYQSLLrND9sOdx1aD_vHPIioJRDKxrzvPlsw75YLj9rFKpWuKDToBY-8jMpXmVw1KfOT5w",
+        "releaseDate": "2025-04-03",
+        "isLancamento": true
+      },
+      {
+      "id": "G9DUEMW44",
+      "animeId": "GEXH3W2KK",
+      "season": 1,
+      "title": "Episódio 1",
+      "slug": "episodio-1",
+      "duration": "23m",
+      "synopsis": "About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)",
+      "image": "https://placewaifu.com/image/1200/364",
+      "videoUrl": "https://www.blogger.com/video.g?token=AD6v5dxGwB3w5hDxSgQ5w-VrUak54H9j1p0g8BSq--qO2los45FpvAx7nvxvGSpQjRtkrYQSLLrND9sOdx1aD_vHPIioJRDKxrzvPlsw75YLj9rFKpWuKDToBY-8jMpXmVw1KfOT5w",
+      "releaseDate": "2025-04-03",
+      "isLancamento": true
+    },
+
+
+     {
       "id": "G9DUEMW42",  
       "animeId": "GDKHZEJ0K",  
       "season": 1,
@@ -39,18 +93,5 @@
       "releaseDate": "2025-04-03",
       "isLancamento": true
     },
-        {
-      "id": "G9DUEMW44",
-      "animeId": "GEXH3W2KK",
-      "season": 1,
-      "title": "Episódio 1",
-      "slug": "episodio-1",
-      "duration": "23m",
-      "synopsis": "About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)",
-      "image": "https://placewaifu.com/image/1200/364",
-      "videoUrl": "https://www.blogger.com/video.g?token=AD6v5dxGwB3w5hDxSgQ5w-VrUak54H9j1p0g8BSq--qO2los45FpvAx7nvxvGSpQjRtkrYQSLLrND9sOdx1aD_vHPIioJRDKxrzvPlsw75YLj9rFKpWuKDToBY-8jMpXmVw1KfOT5w",
-      "releaseDate": "2025-04-03",
-      "isLancamento": true
-    }
   ]
 }
