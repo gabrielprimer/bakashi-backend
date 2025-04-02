@@ -52,24 +52,22 @@
       "releaseDate": "2025-04-03",
       "isLancamento": true
     },
-
-
-     {
-      "id": "G9DUEMW42",  
-      "animeId": "GDKHZEJ0K",  
-      "season": 1,
-      "title": "Episódio 1", 
-      "slug": "episodio-1", 
-      "duration": "23m",
-      "synopsis": "About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)",
-      "image": "https://placewaifu.com/image/1200/364",
-      "videoUrl": "https://rogeriobetin.com/aventura/blog/ffgay/?id=b-16/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-81036262/subtitled/25/218f5d18-367f-46fd-be94-92297ac02127/stream.mp4&amp;img=https://image.tmdb.org/t/p/w1280/uZ6IUfFIROm0GjpX0TPGsKrIjHS.jpg",
-      "releaseDate": "2024-01-01",
-      "isLancamento": true
+    {
+    "id": "D9DUEMW42",  
+    "animeId": "G3KHEVDJ7",  
+    "season": 1,
+    "title": "Episódio 1", 
+    "slug": "episodio-1", 
+    "duration": "23m",
+    "synopsis": "About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)",
+    "image": "https://placewaifu.com/image/1200/364",
+    "videoUrl": "https://rogeriobetin.com/aventura/blog/ffgay/?id=b-16/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-81036262/subtitled/25/218f5d18-367f-46fd-be94-92297ac02127/stream.mp4&amp;img=https://image.tmdb.org/t/p/w1280/uZ6IUfFIROm0GjpX0TPGsKrIjHS.jpg",
+    "releaseDate": "2024-01-01",
+    "isLancamento": true
     },
     {
-      "id": "G9DUEMW43",
-      "animeId": "GDKHZEJ0K",
+      "id": "D9DUEMW43",
+      "animeId": "G3KHEVDJ7",
       "season": 1,
       "title": "Episódio 2",
       "slug": "episodio-2",
@@ -81,8 +79,8 @@
       "isLancamento": true
     },
     {
-      "id": "G9DUEMW44",
-      "animeId": "GDKHZEJ0K",
+      "id": "D9DUEMW44",
+      "animeId": "G3KHEVDJ7",
       "season": 2,
       "title": "Episódio 1",
       "slug": "episodio-1",
